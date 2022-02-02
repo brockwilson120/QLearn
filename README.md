@@ -1,4 +1,4 @@
 # QLearn
 
 
-MUST PIP INSTALL open cv, pygame, torch
+MUST PIP INSTALL ALL REQUIRED PACKAGES TO RUN
